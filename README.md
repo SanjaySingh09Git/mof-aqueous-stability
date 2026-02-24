@@ -3,10 +3,7 @@
 > **A Machine Learning Analysis for Computational Materials Discovery**
 
 **Author:** Sanjay Singh  
-**Affiliation:** Navencia Pte. Ltd., Singapore  
-**Contact:** sanjay.singh@navencia.com  
-**Journal:** Computational Materials Science, Elsevier (2026)  
-**Status:** Under Review
+**Contact:** sanjay.singh@navencia.com
 
 ---
 
