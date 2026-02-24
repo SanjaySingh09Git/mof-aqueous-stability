@@ -1,0 +1,28 @@
+# ============================================================
+# Requirements for:
+# Descriptor Parsimony in Data-Driven Prediction of MOF Aqueous Stability
+# Author: Sanjay Singh, Navencia Pte. Ltd.
+# ============================================================
+# Tested on Python 3.11.5
+# Install with: pip install -r requirements.txt
+# ============================================================
+
+# Core scientific computing
+numpy==1.26.2
+pandas==2.1.4
+
+# Machine learning
+scikit-learn==1.3.2
+xgboost==2.0.3
+
+# Explainability
+shap==0.44.0
+
+# Visualization
+matplotlib==3.8.2
+
+# Jupyter environment
+jupyter==1.0.0
+notebook==7.0.6
+ipykernel==6.27.1
+ipython==8.18.1
